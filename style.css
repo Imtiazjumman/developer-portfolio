@@ -45,5 +45,6 @@ section {
 .top-banner {
     background-image: url(design-image/top-banner.jpg);
     background-repeat: no-repeat;
+    background-position: left;
 
 }
