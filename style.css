@@ -90,7 +90,7 @@ p {
 
 #full-stack {
     border-left: 7px solid;
-    border-image: linear-gradient(darkblue, lightblue);
+    border-image: linear-gradient(rgb(0, 0, 83), rgb(46, 46, 255));
     border-image-slice: 1;
 }
 
